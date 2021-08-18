@@ -1,4 +1,6 @@
-# GSF2848
+#!/bin/bash
+
+# 20210621_GSF2848
 Practicing RNA-seq analysis using GSF2848
 
 # Activate RNA-seq environment
